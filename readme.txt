@@ -5,3 +5,4 @@ stage
 new modified
 modified 2
 branch dev
+master branch
